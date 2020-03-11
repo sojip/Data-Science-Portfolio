@@ -15,3 +15,6 @@ Tools: pandas, matplotlib
 
 * Data cleaning / python :
 	* Profitable App Profile for App Store and Google Play Project : data wrangling, data cleaning and data analysis using python only on a dataset to find mobile app profiles that are profitable for the App Store and Google Play markets.
+
+http://github.com - automatic!
+[GitHub](http://github.com)
